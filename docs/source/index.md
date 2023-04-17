@@ -81,8 +81,5 @@ some custom widget packages built on top of the Jupyter Widgets framework.
 ```{toctree}
 :maxdepth: 2
 
-tutorials/index
-how-to/index
-explanation/index
-reference/index
+test/index
 ```
